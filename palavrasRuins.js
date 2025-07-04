@@ -52,6 +52,7 @@ export const PALAVRAS_RUINS = new Set([
     "pelos",
     "elas",
     "havia",
+    "pra",
     "seja",
     "qual",
     "será",
@@ -120,5 +121,19 @@ export const PALAVRAS_RUINS = new Set([
     "desde",
     "uma vez",
     "segundo",
-    "junto"
+    "junto",
+    "cedo",
+    "feio",
+    "bastante",
+    "tolerante",
+    "inteiro",
+    "bom",
+    "confiar",
+    "viva",
+    "possa",
+    "até",
+    "pelo",
+    "menos",
+    "mesmo",
+    "de tudo"
 ]);
